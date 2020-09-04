@@ -1,0 +1,14 @@
+colorama
+nltk
+requests
+pandas
+yahoo_fin
+requests_html
+praw
+tweepy
+numpy
+pandas_datareader
+newsapi-python
+textblob
+apscheduler
+pandas_market_calendars
